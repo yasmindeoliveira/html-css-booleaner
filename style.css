@@ -1,0 +1,10 @@
+.testa {
+    background-image: url("./assets/pattern.png");
+    background-color: rgb(110, 150, 209);
+    height: 175px;
+}
+.testa img {
+    width: 225px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
