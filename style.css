@@ -8,3 +8,13 @@
     margin-top: 100px;
     margin-left: 10px;
 }
+.prima {
+    background-image: url("./assets/monitor.jpg");
+    height: 200px;
+    background-repeat: no-repeat
+}
+.seconda {
+    background-image: url(./assets/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat
+}
