@@ -3,18 +3,39 @@
     background-color: rgb(110, 150, 209);
     height: 175px;
 }
+
 .testa img {
     width: 225px;
     margin-top: 100px;
     margin-left: 10px;
 }
+
 .prima {
     background-image: url("./assets/monitor.jpg");
     height: 200px;
     background-repeat: no-repeat
 }
+
 .seconda {
     background-image: url(./assets/graph.jpg);
     height: 200px;
     background-repeat: no-repeat
+}
+
+.figure img {
+    height: 400px;
+}
+
+.capo th {
+    background-color: rgb(101, 168, 231);
+    color: white;
+    column-width: 400px;
+}
+
+.light-blue {
+    background-color: rgb(189, 214, 236);
+}
+
+table {
+    border-collapse: collapse;
 }
