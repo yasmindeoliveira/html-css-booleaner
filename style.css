@@ -17,7 +17,7 @@
 }
 
 .seconda {
-    background-image: url(./assets/graph.jpg);
+    background-image: url("./assets/graph.jpg");
     height: 200px;
     background-repeat: no-repeat
 }
@@ -38,4 +38,22 @@
 
 table {
     border-collapse: collapse;
+}
+
+h2, h3 {
+    color: gray;
+}
+
+.prima h2 {
+    color: white;
+    margin-left: 20px;
+}
+
+.seconda h2 {
+    color: white;
+    margin-left: 20px;
+}
+
+b {
+    color: rgb(70, 119, 255);
 }
